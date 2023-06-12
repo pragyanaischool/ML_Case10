@@ -13,7 +13,6 @@ import joblib
 
 from xgboost import XGBClassifier
 
-
 #Loading up the classification model we created
 xgb=XGBClassifier()
 
